@@ -1,0 +1,23 @@
+{
+	"description" : "All Openings One Piece",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Anime" ],
+	"title" : "One Piece All Openings",
+	"type" : "web",
+	"visibility" : "public",
+	"workshopid" : 862319879
+}
