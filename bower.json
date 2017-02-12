@@ -1,0 +1,21 @@
+{
+  "name": "One-Peice-All-Openings---Wallpaper-Engine",
+  "homepage": "https://github.com/yoieh/One-Peice-All-Openings---Wallpaper-Engine",
+  "authors": [
+    "yoieh <yoieh@live.se>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
